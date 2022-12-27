@@ -1,0 +1,14 @@
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\projet 3\bin\Debug\projet 3.exe.config
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\projet 3\bin\Debug\projet 3.exe
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\projet 3\bin\Debug\projet 3.pdb
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\projet 3\obj\Debug\projet 3.csprojAssemblyReference.cache
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\projet 3\obj\Debug\projet 3.csproj.CoreCompileInputs.cache
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\projet 3\obj\Debug\projet 3.exe
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\projet 3\obj\Debug\projet 3.pdb
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\Projet KIOULOU Eléonor\projet 3\bin\Debug\projet 3.exe.config
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\Projet KIOULOU Eléonor\projet 3\bin\Debug\projet 3.exe
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\Projet KIOULOU Eléonor\projet 3\bin\Debug\projet 3.pdb
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\Projet KIOULOU Eléonor\projet 3\obj\Debug\projet 3.csprojAssemblyReference.cache
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\Projet KIOULOU Eléonor\projet 3\obj\Debug\projet 3.csproj.CoreCompileInputs.cache
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\Projet KIOULOU Eléonor\projet 3\obj\Debug\projet 3.exe
+C:\Users\kckel\Documents\A2 STI2D\informatique\projet\Projet KIOULOU Eléonor\projet 3\obj\Debug\projet 3.pdb
